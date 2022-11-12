@@ -15,6 +15,6 @@ class MarsApiService {
     interface MarsApiService {
         @GET("photos")
         fun getPhotos(): String
-    }K
+    }
 
 }
